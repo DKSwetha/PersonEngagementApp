@@ -13,6 +13,7 @@ Activities:
 6)	Brain Teasers 
 7)	Board Games like Scrabble, Chess, Checkers 
 8)	Painting or Drawing experience to stimulate creativity and fine motor skills.
+   
 Feature #2:
 Exercise Guide
 Guided exercise routines and fitness tips will encourage people to stay active and maintain mobility, promoting overall physical health. 
